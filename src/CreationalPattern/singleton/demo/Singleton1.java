@@ -5,6 +5,7 @@ package CreationalPattern.singleton.demo;
  * 功能说明：饿汉式单例模式
  */
 public class Singleton1 {
+
     private static Singleton1 singleton1_instace=new Singleton1();
 
     private Singleton1(){}
