@@ -2,7 +2,7 @@ package CreationalPattern.singleton.demo;
 
 /**
  * Created by yangenneng on 2017-03-15 9:40.
- * 功能说明：饿汉式单例模式
+ * Abstract：饿汉式单例模式
  */
 public class Singleton1 {
 
