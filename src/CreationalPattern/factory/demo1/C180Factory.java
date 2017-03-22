@@ -1,4 +1,4 @@
-package CreationalPattern.factory.demo;
+package CreationalPattern.factory.demo1;
 
 /**
  * Created by yangenneng on 2017-03-22 9:13

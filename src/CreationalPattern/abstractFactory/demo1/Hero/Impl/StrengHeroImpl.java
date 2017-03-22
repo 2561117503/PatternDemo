@@ -1,6 +1,6 @@
-package CreationalPattern.abstractFactory.demo.Hero.Impl;
+package CreationalPattern.abstractFactory.demo1.Hero.Impl;
 
-import CreationalPattern.abstractFactory.demo.Hero.StrengHero;
+import CreationalPattern.abstractFactory.demo1.Hero.StrengHero;
 
 /**
  * Created by yangenneng on 2017-03-22 9:48
