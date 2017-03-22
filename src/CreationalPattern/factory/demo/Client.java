@@ -2,7 +2,7 @@ package CreationalPattern.factory.demo;
 
 /**
  * Created by yangenneng on 2017-03-22 9:18
- * Abstract：
+ * Abstract：客户端测试
  */
 public class Client {
     public static void main(String[] args) {
