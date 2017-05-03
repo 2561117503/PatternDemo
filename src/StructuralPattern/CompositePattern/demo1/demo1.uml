@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>StructuralPattern.CompositePattern.demo1</OriginalElement>
+  <nodes>
+    <node x="-67.75" y="27.0">StructuralPattern.CompositePattern.demo1.Composite</node>
+    <node x="-348.75" y="230.0">StructuralPattern.CompositePattern.demo1.Client</node>
+    <node x="514.25" y="40.0">StructuralPattern.CompositePattern.demo1.Textbox</node>
+    <node x="233.25" y="40.0">StructuralPattern.CompositePattern.demo1.Rectangle</node>
+    <node x="87.75" y="-155.0">StructuralPattern.CompositePattern.demo1.Component</node>
+    <node x="-348.75" y="40.0">StructuralPattern.CompositePattern.demo1.Line</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="StructuralPattern.CompositePattern.demo1.Textbox" target="StructuralPattern.CompositePattern.demo1.Component">
+      <point x="0.0" y="-66.0" />
+      <point x="644.75" y="-3.0" />
+      <point x="316.125" y="-3.0" />
+      <point x="97.875" y="66.0" />
+    </edge>
+    <edge source="StructuralPattern.CompositePattern.demo1.Composite" target="StructuralPattern.CompositePattern.demo1.Component">
+      <point x="0.0" y="-79.0" />
+      <point x="72.75" y="7.0" />
+      <point x="185.625" y="7.0" />
+      <point x="-32.625" y="66.0" />
+    </edge>
+    <edge source="StructuralPattern.CompositePattern.demo1.Rectangle" target="StructuralPattern.CompositePattern.demo1.Component">
+      <point x="0.0" y="-66.0" />
+      <point x="363.75" y="7.0" />
+      <point x="250.875" y="7.0" />
+      <point x="32.625" y="66.0" />
+    </edge>
+    <edge source="StructuralPattern.CompositePattern.demo1.Line" target="StructuralPattern.CompositePattern.demo1.Component">
+      <point x="0.0" y="-66.0" />
+      <point x="-218.25" y="-3.0" />
+      <point x="120.375" y="-3.0" />
+      <point x="-97.875" y="66.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.8" x="227.80357142857144" y="96.46428571428567" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

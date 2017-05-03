@@ -1,4 +1,4 @@
-package CreationalPattern.singleton.demo;
+package CreationalPattern.singleton.demo1;
 
 /**
  * Created by yangenneng on 2017-03-15 9:42.
